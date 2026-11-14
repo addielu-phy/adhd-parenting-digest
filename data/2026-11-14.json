@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-14",
+  "summary": "今天 4 則的共同主題：孩子嘴上說「無所謂」時，背後可能卡在哪裡，以及怎麼讓孩子參與決定。",
+  "tonight_one_thing": "把「你怎麼還沒寫？」換成「現在是哪裡卡住？怎樣會比較做得到？」，再讓孩子自己選一個今晚做得到的小目標。做到了，就具體說出您看到的那個動作。",
+  "items": [
+    {
+      "title": "孩子說不在乎課業，怎麼培養動機",
+      "source": "Podcast《Parent Your ADHD Child with Confidence!》，2026 年 9 月",
+      "credibility": "實務經驗分享",
+      "summary": "ADHD 青少年說「無所謂」，常常是覺得事情太多、不知道從哪開始，或怕追不上。獎勵和懲罰多半只有短期效果；讓孩子有選擇的空間、感覺自己做得到，並知道為什麼要做，比較能帶出自發的動機。",
+      "try_tonight": "不問「為什麼還沒做」，改問「哪裡卡住」，讓孩子自己挑一個小目標，例如先做兩題。",
+      "link": "https://parentyouradhdchildwithconfidence.podbean.com/e/why-your-teen-with-adhd-doesn-t-care-about-school%e2%80%94and-what-actually-builds-motivation/"
+    },
+    {
+      "title": "青春期重視價值感與歸屬感",
+      "source": "高雄市臨床心理師公會衛教 PDF（放在臺中市衛生局網站）",
+      "credibility": "專業衛教",
+      "summary": "在地臨床心理師說明，ADHD 青少年負責自制的大腦區域成熟得比較晚，所以課業和 3C 自我管理容易卡關，自我評價也常偏低。文件提供「我訊息」和自我提醒工具等具體方法。",
+      "try_tonight": "提醒手機時，依序說出具體行為、您的感受和實際影響，例如「已經 10 點了還在看影片，我有點擔心，你明天早上會很難起床」，少用「你怎麼又……」開頭。",
+      "link": "https://www.health.taichung.gov.tw/media/930553/%E8%A6%AA%E8%81%B7%E6%95%99%E9%A4%8A_adhd%E8%A6%AA%E5%AD%90%E6%95%99%E9%A4%8A%E8%88%87%E8%BA%AB%E5%BF%83%E6%88%90%E9%95%B7.pdf"
+    },
+    {
+      "title": "青少年和家長怎麼看藥物與非藥物治療",
+      "source": "BMC Psychiatry，2026 年 6 月",
+      "credibility": "同儕審查研究",
+      "limitation": "訪談型的質性研究，對象 12 到 16 歲，結果用來理解感受，不是比較療效",
+      "summary": "青少年比較在意治療後實際的感受，例如更專心、覺得疲倦，或擔心被貼標籤；家長比較在意就醫的阻礙和對醫療的信任。研究建議讓青少年本人參與治療決定，比較能持續下去。",
+      "try_tonight": "找個輕鬆的時候私下問孩子，治療有哪些地方幫到他、哪些讓他不舒服，下次回診時鼓勵他自己告訴醫師。",
+      "link": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-026-08293-6"
+    },
+    {
+      "title": "家長壓力從哪裡來",
+      "source": "PLOS One，2026 年，泰國 Ramathibodi 醫院，127 個家庭",
+      "credibility": "同儕審查研究",
+      "limitation": "觀察型研究，看得出相關，不能證明因果",
+      "summary": "和家長壓力關係較大的，不是 ADHD 症狀本身，而是孩子日常生活受影響的程度，以及家庭整體互動的氣氛。改善家裡的互動方式，也可能讓家長自己輕鬆一些。",
+      "try_tonight": "不必一次處理所有問題，先挑最影響生活的一件，例如睡前手機放在客廳充電，全家一起訂規則並照著做。",
+      "link": "https://doi.org/10.1371/journal.pone.0341817"
+    }
+  ]
+}
