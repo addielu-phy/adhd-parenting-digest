@@ -467,6 +467,7 @@ def render_daily(issue: dict) -> str:
     {items}
     <footer class="site-footer">
       <p>本頁內容為家長參考資料彙整，不能取代醫師或心理專業人員的評估與建議。</p>
+      <p>本頁內容由 Grok 協助蒐集整理（made by Grok）。</p>
       <p><a href="../">回到總覽</a></p>
     </footer>
   </main>
@@ -508,6 +509,7 @@ def render_index(issues: list[dict]) -> str:
     {listing}
     <footer class="site-footer">
       <p>本站內容為家長參考資料彙整，不能取代醫師或心理專業人員的評估與建議。</p>
+      <p>本頁內容由 Grok 協助蒐集整理（made by Grok）。</p>
     </footer>
   </main>
 </body>
