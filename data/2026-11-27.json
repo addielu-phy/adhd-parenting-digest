@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-27",
+  "summary": "今天 4 則都在談「怎麼說」：用一個輕鬆的暗號幫大家換個語氣、用 GIVE 先接住情緒再談功課，再看研究怎麼說自尊與自我控制和遊戲停不下來的關係，最後用幾個執行功能小工具，把嘮叨換成孩子自己做得到的下一步。",
+  "tonight_one_thing": "今晚只做一件事：如果孩子回家想先滑手機、不想碰功課，先用溫和的語氣問一句「今天好像很累？發生什麼事了？」，認同他的感受，話尾不接「但是」；聽完再一起商量，是先吃點東西、還是休息十分鐘再開始。",
+  "items": [
+    {
+      "title": "一句「TOV」，讓吵架前多一次「重說一遍」的機會",
+      "source": "CHADD《Attention》雜誌，臨床心理師 Sharon Saline 博士，〈ADHD and Family Conflict: How to Reduce Verbal Aggression〉，2024 年 4 月",
+      "credibility": "醫師或專家文章",
+      "summary": "Saline 博士觀察到，ADHD 家庭裡很多爭吵不是內容出了問題，而是語氣一下子衝上來，大人小孩都一樣。孩子往往聽不出自己說話的口氣，對批評又特別敏感，直接糾正常常適得其反。她的方法叫 TOV（Tone Of Voice，語氣）：先在平靜時跟全家說好，覺得對方語氣需要調整時，就說「TOV」，給對方一兩分鐘換個說法重來；如果還是做不到，就照事先講好的時間各自休息（多半十到十五分鐘就夠）。當孩子真的放低音量、換了用詞，大人要接住新的說法繼續談，事後再謝謝他的努力。她也提醒：孩子也可以對大人喊 TOV，大人要能笑著承認自己可以做得更好；而且一天用一次左右就好，用太多會失去意義。另一個搭配工具是 TBD（Take Back of the Day），每天一次機會，讓說出難聽話的人自己收回。",
+      "try_tonight": "今晚挑一個大家心情不錯的時刻，簡單介紹「TOV」：任何人覺得對方語氣太衝，都可以說這三個字母，對方就有一兩分鐘換個說法重來。先由大人示範被提醒時笑著說「好，我重說一次」。",
+      "link": "https://chadd.org/attention-article/adhd-and-family-conflict-how-to-reduce-verbal-aggression/"
+    },
+    {
+      "title": "想叫孩子先寫功課？用 GIVE 先顧關係，用 STOP 先顧自己",
+      "source": "Child Mind Institute，Michelle Shih 撰文，臨床專家 Julie Reinhold 博士（該院 DBT 計畫共同主任），〈DBT for Parents〉，2026 年 7 月更新",
+      "credibility": "專業衛教",
+      "limitation": "以一般兒童與青少年家庭為對象，不是專為 ADHD 撰寫；屬臨床專家整理的辯證行為治療（DBT）技巧，不是單一研究結果",
+      "summary": "文章介紹三個從辯證行為治療借來的溝通技巧。其中 GIVE 很貼近每天的場景：孩子放學心情很差、只想先用螢幕，大人希望他先寫功課。GIVE 是溫和（Gentle）、表達關心（Interested）、認同感受（Validating）、輕鬆的態度（Easy）：先用溫和的語氣問「今天好像過得很辛苦，發生什麼事？」，認真聽；再說出「難怪你現在不想寫功課」，這是認同感受，不等於答應給螢幕，而且要避免馬上接「但是」。氣氛鬆下來後，比較容易一起想出雙方都能接受的辦法，例如先吃點心或散步一下再開始。當大人自己已經氣到「看見紅色」時，就用 STOP：停下、退一步深呼吸、觀察現場和自己、再有意識地決定下一步。Reinhold 博士說，大人怎麼做，孩子就會學怎麼做。",
+      "try_tonight": "今晚準備一句「認同句」放在心裡，例如「今天這麼累，不想馬上寫功課很正常」。孩子抗拒時先說這一句，停三秒，不接「但是」，再問他「那你覺得先做什麼比較好？」。",
+      "link": "https://childmind.org/article/dbt-for-parents/"
+    },
+    {
+      "title": "遊戲停不下來，和自尊、自我控制的關係比教養風格更明顯",
+      "source": "Journal of the Psychiatric Association of Thailand；Hemthuwanon、Prasartpornsirichoke、Ratanajaruraks（泰國朱拉隆功大學醫學院精神科），〈Prevalence and Association of Primary Caregivers' Parenting Styles with Gaming Addiction in Adolescents with ADHD〉，2026 年 9 月",
+      "credibility": "同儕審查研究",
+      "limitation": "橫斷面相關研究，只能看到關聯、不能證明因果；樣本為泰國單一醫院門診的 130 對 12–15 歲 ADHD 青少年與主要照顧者；全部以問卷測量",
+      "summary": "研究者在泰國一家醫院的兒童青少年精神科門診，調查了 130 位 12 到 15 歲的 ADHD 青少年和他們的主要照顧者。結果有 11% 符合遊戲成癮，另外 34% 屬於高風險。有意思的是，照顧者的教養風格（不論偏正向或偏負向）和遊戲成癮之間，沒有看到顯著的直接或間接關聯；真正和遊戲成癮程度明顯相關的，是孩子自己的自尊和自我控制，兩者越高，遊戲成癮程度越低。作者建議，幫助這些孩子時可以把重點放在培養自尊與自我控制，並鼓勵家長一起參與。對家長來說，這提醒我們：除了訂規則，讓孩子在生活裡多一點「我做得到」的經驗，可能也同樣重要。",
+      "try_tonight": "今晚找一件孩子在螢幕以外做得不錯的小事（倒垃圾、幫忙修東西、說了一個好笑的故事都算），具體地說出來，例如「剛剛那個你自己想辦法搞定了，很厲害」，說完就好，不順便加上讀書的提醒。",
+      "link": "https://he01.tci-thaijo.org/index.php/JPAT/article/view/286121"
+    },
+    {
+      "title": "不是沒動力，是執行功能在卡關：七個環節各有小工具",
+      "source": "ADDitude 編輯部，〈7 Executive Functioning Deficits That Deflate Motivation for Teens with ADHD〉，2025 年 10 月更新",
+      "credibility": "專業衛教",
+      "limitation": "整理自 ADDitude 講座中的家長提問與專家建議，屬實務衛教，不是研究報告",
+      "summary": "這份圖文整理指出，ADHD 青少年的動機忽高忽低，執行功能的落後是重要原因之一；文中提到 ADHD 孩子的執行功能發展大約晚三年，所以需要比同齡人更多的外在支持。它把「沒動力」拆成七個環節，各給幾個小方法：啟動困難就把任務拆小；時間感弱就用看得見時間流逝的計時器、從截止日往回排；組織困難就建立固定位置和流程，讓孩子「用看的，不用記的」；排優先順序時分清「急」和「重要」；專注撐不久就訂清楚的螢幕規則、設實際可行的工作時段、讓孩子自己選先做簡單還是困難的；堅持到底則要一起訂出做得到的目標，並先問好「你希望我怎麼提醒你回來繼續」。最後的「後設認知」，是用開放式問題讓孩子自己想：任務是什麼？第一步做什麼？分心了怎麼辦？",
+      "try_tonight": "今晚把「去讀書」換成一個問題：「今天要讀的是什麼？你想先做哪一小段？」等他回答，再問「如果中途分心了，你希望我怎麼提醒你？」，把他的答案照做。",
+      "link": "https://www.additudemag.com/slideshows/executive-functioning-skills-motivation-for-teenager-adhd/"
+    }
+  ]
+}
